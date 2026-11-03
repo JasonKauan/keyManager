@@ -13,5 +13,6 @@
 
     <modules>
         <module>key-manager-core</module>
+        <module>key-manager-gemini</module>
     </modules>
 </project>
